@@ -3,10 +3,9 @@
 <p>All the available commands you can find below the text.</p>
 
 <pre>
-Command		Bot's answer
+Command		 Bot's answer    Effect
 </hr>
-/hello		'Hi!'
-/token		Bot's token
-/clock		'tick', shows the message every minute (60000 msec)
-/stop		'Ok', stops ticking
+/hello		 'Hi!'           None
+/follow		 'Done'          Bot starts sending you all the messages he gets
+/unfollow  'Ok'            Bot stops sending you the messages
 </pre>

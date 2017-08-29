@@ -3,9 +3,9 @@
 <p>All the available commands you can find below the text.</p>
 
 <pre>
-Command		 Bot's answer    Effect
+Command		  Bot's answer    Effect
 </hr>
-/hello		 'Hi!'           None
-/follow		 'Done'          Bot starts sending you all the messages he gets
-/unfollow  'Ok'            Bot stops sending you the messages
+/hello		  'Hi!'           None
+/follow		  'Done'          Bot starts sending you all the messages he gets
+/unfollow   'Ok'            Bot stops sending you the messages
 </pre>
